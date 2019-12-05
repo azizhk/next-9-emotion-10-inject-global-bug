@@ -12,11 +12,12 @@
   "author": "Thomas Greco",
   "license": "ISC",
   "dependencies": {
-    "emotion": "^8.0.11",
-    "emotion-server": "^8.0.11",
+    "@emotion/core": "^10.0.22",
+    "@emotion/styled": "^10.0.23",
+    "emotion": "^10.0.23",
+    "emotion-server": "^10.0.17",
     "next": "latest",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "react-emotion": "^8.0.11"
+    "react-dom": "^16.7.0"
   }
 }
