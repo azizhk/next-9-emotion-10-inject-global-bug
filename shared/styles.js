@@ -1,5 +1,6 @@
-import { keyframes, css, injectGlobal } from 'emotion'
-import styled from "@emotion/styled"
+import { injectGlobal } from "emotion";
+import { keyframes, css } from "@emotion/core";
+import styled from "@emotion/styled";
 
 export const injectGlobalStyles = () => injectGlobal`
 html, body {
